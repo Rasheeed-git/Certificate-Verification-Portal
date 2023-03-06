@@ -1,0 +1,141 @@
+.logo{
+    width: 1em;
+}
+.image img{
+	width: 3.5em;
+	height: 4em;
+	border-radius: 40%;
+}
+.div-align{
+    margin-left:0.5em;
+}
+#divPhoto{
+    margin-left: 0.6em;
+}
+#divTable{
+    margin-left: -0.6em;
+}
+#my_profile{
+    width: 100%;
+}
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+.content a:hover{
+	color:#f09a3e;
+	text-decoration: none;
+}
+.box{
+    background-color:white;
+    padding: 0em 0em 0.5em;
+	border-top:0.2em solid #f09a3e;
+	border-bottom: 0.2em solid #f09a3e;
+	border-radius: 0.3em;
+}
+.well{
+	background-color:whitesmoke;
+	border-radius:0.5em
+}
+tr .table{
+	width: 10em;
+}
+#admission-show-password{
+	float: right;
+    margin-left: -25px;
+    margin-top: -25px;
+    position: relative;
+    z-index: 2;
+	font-size: small;
+}
+#changeprofile{
+	background-color:#f09a3e;
+	color: white;
+}
+#changepassword{
+	background-color:#f09a3e;
+	color: white;
+}
+#update{
+	background-color: #f09a3e;
+	color: white;
+}
+.list-group-item a{
+	color: #f09a3e;
+}
+.profile-picture{
+	display: none;
+}
+#provisional
+{
+	left:50px;
+}
+#provisional input
+{
+	color:white;
+	font-size:15;
+}
+#perpetual
+{
+	left:450px;
+}
+#perpetual input
+{
+	color:white;
+	font-size: 15;
+}
+.panel-heading{
+    border-top: 3px solid #f09a3e;
+    border-bottom: 1px solid #f09a3e;
+}
+.panel{
+    background-color: white;
+}
+.panel-footer, .footer{
+    border-bottom: 3px solid #f09a3e;
+}
+
+.content2{
+    margin: 5em 0em; 
+}
+.card{
+    border-top:3px solid #f09a3e;
+    border-bottom: 3px solid #f09a3e;
+}
+.online{
+	font-size:1.5em;
+	color:green
+}
+.fa-clock,.heading, .fa-calendar-alt, .card-title, .btn-sm, .nav-link, .footer-link, .breadcrumb-link{
+	color: #f09a3e;
+}
+.col-sm-7 a:hover{
+    color:#f09a3e;
+}
+.col-sm-5 a:hover{
+    color:#f09a3e;
+}
+.breadcrumb-link:hover, .footer-link:hover{
+    color:rgb(240, 154, 62);
+}
+.btn-tool{
+    margin: 0em 0em 0em;
+	background-color: #f09a3e;
+	color: white;  
+}
+.box-footer .btn,.btn {
+	background-color: #f09a3e;
+	color: white;
+}
+
+/*Receipt*/
+.receipt-logo{
+	
+	height:5em;
+	display: inline-block;
+}
+.schoolname{
+	font-size:xx-large;
+}
+/*delete modal*/
+
